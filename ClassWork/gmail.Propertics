@@ -1,0 +1,4 @@
+username=//*[@id="identifierId"]
+next=//*[@id="identifierNext"]/content/span
+password=//*[@id="password"]/div[1]/div/div[1]/input
+continue=//*[@id="passwordNext"]/content/span
